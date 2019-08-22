@@ -1,90 +1,46 @@
-# React Assessments
+# ASSESSMENT 4: REACT ASSESSMENT
+## Interview Practice Questions
 
-Try your best to answer each question on your own before looking up the answer online. Once you're done writing your first answer, you can google the question and write the best answer you find.
+Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.  
 
-#### 1. Here is a list of pros and cons to using the React library to build your application -- but some of them are false. Remove the false statements from the list:
+1a. Indicate which of the following statements about React are false:
 
-- React was created to be simple, so that even people with minimal code experience could use it and create Single Page Applications (SPAs)
 - React is a modern, efficient answer to complex UI applications
+- React will only render on the server using Node.js
 - React is a full stack framework for modern web applications
 - React is a flexible library that plays the role of V in an MVC framework
+- You should always update a component's state directly using this.state
+- React is made up of encapsulated components that manage their own state
+- React components render HTML
 
- 
- #### 2. What are "smart"(logic) and "dumb"(display) components? Explain the difference and also add why we bother to make the distinction between them.
- 
- 
- //Your Answer
- 
- 
- //Googled Answer
- 
- 
-#### 3. When we use "yarn add ..." in the terminal - what is yarn doing? And what file will always be automatically updated after we add a package with yarn?
- 
- 
- //Your Answer
- 
- 
- //Googled Answer
- 
- 
-#### 5. There are three mistakes in this code that would cause it to break our application. Find the mistakes and fix them:
+1b. Add an interesting true fact about React to the list.
 
-    import React, { Component } from 'react';
+2. What are "smart" and "dumb" components? Explain the difference and also add why we bother to make the distinction between them.
 
-    class Recipes {
-      constructor(props){
-        super(props)
-        this.state = {
-          recipes: 
-            {name: 'Meatballs'},
-            {name: 'Mac & Cheese'}
-      
-        }
-      }
+  Your answer:
 
-      render() {
-    
-        return (
-    
-          let recipes = this.state.recipes.map(function(recipe){
-            return(
-              <li key={recipe.name}>{recipe.name}</li>
-            )
-          })
-    
-          <ul>
-            {recipes}
-          </ul>
-        );
-      }
-    }
+  Researched answer:
 
-    export default Recipes;
 
-#### 6. Name three html input types. (NOTE: text is the default type - so it doesn't count in this case)
- 
- //Your Answer
- 
- 
- //Googled Answer
- 
- 
- #### 7. How would you explain state to a friend who doesn't know code?
- 
- //Your Answer
- 
- 
- //Googled Answer
- 
- 
- #### 8. What is the difference between component state and props? Your answer should include a short explanation of both.
- 
- 
- //Your Answer
- 
- 
- //Googled Answer
- 
-   
-#### 9. Write a paragraph or so about your experience with building tic-tac-toe. Some topics to start with might be: things you learned about yourself, concepts from React that stood out to you, something about pair programming (if you paired), or the experience of building something in code from scratch.
+
+3. When we use "yarn add ..." in the terminal - what is yarn doing? And what file will always be automatically updated after we add a package with yarn?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+4. How would you explain state to a friend who doesn't know code?
+
+  Your answer:
+
+  Researched answer:
+
+
+
+5. What is the difference between component state and props? Your answer should include a short explanation of both.
+
+  Your answer:
+
+  Researched answer:
