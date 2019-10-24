@@ -5,15 +5,15 @@ Answer the following questions. First, without external resources. Challenge you
 
 1a. Indicate which of the following statements about React are false:
 
-- React is a modern, efficient answer to complex UI applications
-- React will only render on the server using Node.js
-- React is a full stack framework for modern web applications
-- React is a flexible library that plays the role of V in an MVC framework
-- You should always update a component's state directly using this.state
-- React is made up of encapsulated components that manage their own state
-- React components render HTML
+- React is a modern, efficient answer to complex UI applications (true/false)
+- React will only render on the server using Node.js (true/false)
+- React is a full stack framework for modern web applications (true/false)
+- React is a flexible library that plays the role of V in an MVC framework (true/false)
+- You should always update a component's state directly using this.state (true/false)
+- React is made up of encapsulated components that manage their own state (true/false)
+- React components render HTML (true/false)
 
-1b. Add an interesting true fact about React to the list.
+1b. Add an interesting TRUE fact about React to the list.
 
 2. What are "smart" and "dumb" components? Explain the difference and also add why we bother to make the distinction between them.
 
@@ -31,7 +31,7 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-4. How would you explain state to a friend who doesn't know code?
+4. What is the difference between component state and props? Your answer should include a short explanation of both.
 
   Your answer:
 
@@ -39,8 +39,6 @@ Answer the following questions. First, without external resources. Challenge you
 
 
 
-5. What is the difference between component state and props? Your answer should include a short explanation of both.
+5. How would you explain state to a friend who doesn't know code?
 
   Your answer:
-
-  Researched answer:
