@@ -3,7 +3,7 @@
 
 Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.  
 
-1a. Indicate which of the following statements about React are false:
+1. Correctable True/False: Mark the following TRUE or FALSE. If FALSE, correct the statement to be TRUE.
 
 - React is a modern, efficient answer to complex UI applications (true/false)
 - React will only render on the server using Node.js (true/false)
@@ -13,7 +13,6 @@ Answer the following questions. First, without external resources. Challenge you
 - React is made up of encapsulated components that manage their own state (true/false)
 - React components render HTML (true/false)
 
-1b. Add an interesting TRUE fact about React to the list.
 
 2. What are "smart" and "dumb" components? Explain the difference and also add why we bother to make the distinction between them.
 
