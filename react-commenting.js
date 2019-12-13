@@ -31,14 +31,13 @@ class Board extends Component{
 
   gamePlay = (index) => {
     // 3) Here:
-    const { gameBoard, currentPlayer, winner, clickCount } = this.state
+    const { gameBoard, currentPlayer, winner } = this.state
     // 4) Here:
     if(gameBoard[index] === null && winner === null){
       gameBoard[index] = currentPlayer
       this.setState({
         gameBoard: gameBoard,
         currentPlayer: currentPlayer === "🦄" ? "🦆" : "🦄",
-        clickCount: clickCount+1
       })
     }
     if(winner === null){
