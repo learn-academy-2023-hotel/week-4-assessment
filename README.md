@@ -1,4 +1,4 @@
-# Assessments for React
+# Assessments for Week 4
 
 - Assessment should be accessed through GitHub Classroom
 - Clone Assessment
