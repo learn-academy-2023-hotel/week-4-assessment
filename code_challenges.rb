@@ -12,13 +12,13 @@ fullArr2 = ['hello', 7, 23, -823, false, 78, nil, '67', 6, 'Number']
 # Expected output: [-823, 7, 23]
 
 
-# --------------------2) Create a class called Bike that is initialized with a model, wheels, and frame size. Create a get_info method that returns a sentence with all the data from the bike object.
+# --------------------2) Create a class called Bike that is initialized with a model, wheels, and a frame size. The default number of wheels is 2. Create a get_info method that returns a sentence with all the data from the bike object.
 
 
 
 
 
-# Expected output example: 'The Trek bike has two wheels and a 168cm frame.'
+# Expected output example: 'The Trek bike has 2 wheels and a 168cm frame.'
 
 
 # -------------------3) Add a bell to the bike class and create a method that will ring the bell when the method is called.
