@@ -1,6 +1,9 @@
 # ASSESSMENT 4: Interview Practice Questions
+Answer the following questions.
 
-Answer the following questions. First, without external resources. Challenge yourself to answer from memory. Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn.  
+First, without external resources. Challenge yourself to answer from memory.
+
+Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn. Write your researched answer in your OWN WORDS.  
 
 1. What is an instance variable in Ruby? How is it different from other variables?
 
@@ -39,3 +42,13 @@ Answer the following questions. First, without external resources. Challenge you
   Your answer:
 
   Researched answer:
+
+
+
+## Looking Ahead: Terms for Next Week
+- PostgreSQL
+- API
+- CRUD
+- Ruby on Rails
+- ORM
+- Active Record
