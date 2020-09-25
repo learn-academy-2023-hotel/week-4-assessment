@@ -45,6 +45,14 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
+6. STRETCH: What is `attr_accessor`?
+
+  Your answer:
+
+  Researched answer:
+
+
+
 ## Looking Ahead: Terms for Next Week
 - PostgreSQL
 - API
