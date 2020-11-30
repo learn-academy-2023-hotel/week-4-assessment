@@ -2,7 +2,7 @@
 
 // --------------------1) Create a function that takes in an array. Each time the function is run, remove the first item from the array and shuffle the remaining content. If the array is empty, return "The array is empty."
 
-var collections = ["purple", "blue", "green", "yellow", "pink"]
+var colors = ["purple", "blue", "green", "yellow", "pink"]
 // Expected output example1 (can be a different order): ["yellow", "blue", "pink", "green"]
 // Expected output example2 (can be a different order): ["blue", "green", "pink"]
 // Expected output example3 (can be a different order): ["pink", "green"]
@@ -46,6 +46,6 @@ var testString2 = "jabberwocky"
 
 // --------------------5) Create a function that takes in two arrays as arguments and returns one array with no duplicate values. STRETCH: Use the spread operator to pass in a dynamic number of arguments.
 
-var arr1 = [3, 7, 10, 5, 4, 3, 3]
-var arr2 = [7, 8, 2, 3, 1, 5, 4]
+var testArray1 = [3, 7, 10, 5, 4, 3, 3]
+var testArray2 = [7, 8, 2, 3, 1, 5, 4]
 // Expected output: [3, 7, 10, 5, 4, 8, 2, 1]
