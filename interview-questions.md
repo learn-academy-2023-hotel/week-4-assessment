@@ -54,6 +54,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 ## Looking Ahead: Terms for Next Week
+- MVC
 - PostgreSQL
 - API
 - CRUD
