@@ -18,7 +18,7 @@ beverages_array = ['coffee', 'tea', 'juice', 'water', 'soda water']
 letter_o = 'o'
 # Expected output: ['coffee', 'soda water']
 letter_a = 'a'
-# Expected output: ['tea', 'soda water']
+# Expected output: ['tea', 'water', 'soda water']
 
 
 
