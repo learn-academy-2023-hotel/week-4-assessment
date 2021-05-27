@@ -54,10 +54,13 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 ## Looking Ahead: Terms for Next Week
-- MVC
-- PostgreSQL
-- API
-- CRUD
-- Ruby on Rails
-- ORM
-- Active Record
+
+1. PostgreSQL:
+ 
+2. Ruby on Rails:
+
+3. CRUD:
+
+4. ORM:
+
+5. Active Record:

@@ -33,26 +33,7 @@ var colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "saf
 
 
 
-// --------------------2) Create a function that takes in an array of numbers and returns the sum of all the numbers cubed.
-
-// a) Create a test with expect statements for each of the variables provided.
-
-var cubeAndSum1 = [2, 3, 4]
-// Expected output: 99
-var cubeAndSum2 = [0, 5, 10]
-// Expected output: 1125
-
-
-
-
-
-// b) Create the function that makes the test pass.
-
-
-
-
-
-// --------------------3) Create a function that takes an array of numbers and returns an array of the minimum and maximum numbers in that order.
+// --------------------2) Create a function that takes an array of numbers and returns an array of the minimum and maximum numbers in that order.
 
 // a) Create a test with expect statements for each of the variables provided.
 
@@ -71,26 +52,7 @@ var nums2 = [109, 5, 9, -59, 8, 24]
 
 
 
-// --------------------4) Create a function that takes in a string and returns a string with every other letter capitalized.
-
-// a) Create a test with expect statements for each of the variables provided.
-
-var testString1 = "albatross"
-// Expected output: "aLbAtRoSs"
-var testString2 = "jabberwocky"
-// Expected output: "jAbBeRwOcKy"
-
-
-
-
-
-// b) Create the function that makes the test pass.
-
-
-
-
-
-// --------------------5) Create a function that takes in two arrays as arguments and returns one array with no duplicate values. STRETCH: Use the spread operator to pass in a dynamic number of arguments.
+// --------------------3) Create a function that takes in two arrays as arguments and returns one array with no duplicate values. STRETCH: Use the spread operator to pass in a dynamic number of arguments.
 
 // a) Create a test with an expect statement using the variables provided.
 
