@@ -11,8 +11,6 @@ letter_t = 't'
 
 
 
-
-
 # -------------------2) Create a method that takes in a string and removes all the vowels from the string. Use the test variables provided. HINT: Check out this resource: https://ruby-doc.org/core-2.6/String.html#method-i-delete
 
 album1 = 'Rubber Soul'
@@ -24,13 +22,9 @@ album3 = 'Abbey Road'
 
 
 
-
-
 # --------------------3a) Create a class called Bike that is initialized with a model, wheels, and current_speed. The default number of wheels is 2. The current_speed should start at 0. Create a get_info method that returns a sentence with all the data from the bike object.
 
 # Expected output example: 'The Trek bike has 2 wheels and is going 0 mph.'
-
-
 
 
 
