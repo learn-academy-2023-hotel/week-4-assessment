@@ -1,5 +1,5 @@
 # ASSESSMENT 4: Ruby Coding Practical Questions
-# MINASWAN ✌️
+# MINASWAN
 
 # --------------------1) Create a method that takes in an array of words and a letter and returns all the words that contain that particular letter.
 
@@ -22,7 +22,7 @@ album3 = 'Abbey Road'
 
 
 
-# --------------------3a) Create a class called Bike that is initialized with a model, wheels, and current_speed. The default number of wheels is 2. The current_speed should start at 0. Create a get_info method that returns a sentence with all the data from the bike object.
+# --------------------3a) Create a class called Bike that is initialized with a model, wheels, and current_speed. The default number of wheels is 2. The current_speed should start at 0. Create a display_info method that returns a sentence with all the data from the bike object.
 
 # Expected output example: 'The Trek bike has 2 wheels and is going 0 mph.'
 
@@ -30,5 +30,5 @@ album3 = 'Abbey Road'
 
 # -------------------3b) Add the ability to pedal faster and brake. The pedal_faster method should increase the speed. The brake method should decrease the speed. The bike cannot go negative speeds.
 
-# Expected output example: my_bike.pedal_faster 10 => 10
-# Expected output example: my_bike.brake 15 => 0
+# Expected output example: my_bike.pedal_faster(10) => 10
+# Expected output example: my_bike.brake(15) => 0
