@@ -1,13 +1,14 @@
 # ASSESSMENT 4: Ruby Coding Practical Questions
 # MINASWAN
 
-# --------------------1) Create a method that takes in an array of words and a letter and returns all the words that contain that particular letter.
+# --------------------1) Create a method that takes in a number and determines if the number is even or odd. Use the test variables provided.
 
-beverages_array = ['coffee', 'tea', 'juice', 'water', 'soda water']
-letter_o = 'o'
-# Expected output: ['coffee', 'soda water']
-letter_t = 't'
-# Expected output: ['tea', 'water', 'soda water']
+num1 = 7
+# Expected output: '7 is odd'
+num2 = 42
+# Expected output: '42 is even'
+num3 = 221
+# Expected output: '221 is odd'
 
 
 
@@ -22,13 +23,11 @@ album3 = 'Abbey Road'
 
 
 
-# --------------------3a) Create a class called Bike that is initialized with a model, wheels, and current_speed. The default number of wheels is 2. The current_speed should start at 0. Create a display_info method that returns a sentence with all the data from the bike object.
+# -------------------3) Create a method that takes in a string and checks if the string is a palindrome. A palindrome is the same word spelled forwards or backwards. Use the test variables provided.
 
-# Expected output example: 'The Trek bike has 2 wheels and is going 0 mph.'
-
-
-
-# -------------------3b) Add the ability to pedal faster and brake. The pedal_faster method should increase the speed. The brake method should decrease the speed. The bike cannot go negative speeds.
-
-# Expected output example: my_bike.pedal_faster(10) => 10
-# Expected output example: my_bike.brake(15) => 0
+is_palindrome1 = 'Racecar'
+# Expected output: 'Racecar is a palindrome'
+is_palindrome2 = 'LEARN'
+# Expected output: 'LEARN is not a palindrome'
+is_palindrome3 = 'Rotator'
+# Expected output: 'Rotator is a palindrome'

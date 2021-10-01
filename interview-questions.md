@@ -5,7 +5,7 @@ First, without external resources. Challenge yourself to answer from memory.
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn. Write your researched answer in your OWN WORDS.  
 
-1. What is an instance variable in Ruby? How is it different from other variables?
+1. What are props in React?
 
   Your answer:
 
@@ -13,7 +13,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-2. What is a block in Ruby?
+2. What is a DOM event?
 
   Your answer:
 
@@ -21,7 +21,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-3. Ruby has an implicit return. What does that mean?
+3. What is object-oriented programming? How is it different than functional programming?
 
   Your answer:
 
@@ -29,7 +29,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-4. What is object-oriented programming? How is it different than functional programming?
+4. What is the difference between a Float and an Integer in Ruby?
 
   Your answer:
 
@@ -37,7 +37,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-5. What is the difference between a class and an object?
+5. Ruby has an implicit return. What does that mean?
 
   Your answer:
 
@@ -45,7 +45,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-6. STRETCH: What is `attr_accessor`?
+6. STRETCH:
 
   Your answer:
 
@@ -55,11 +55,11 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 ## Looking Ahead: Terms for Next Week
 
-1. PostgreSQL:
- 
-2. Ruby on Rails:
+1. Instance Variable:
 
-3. CRUD:
+2. PostgreSQL:
+
+3. Ruby on Rails:
 
 4. ORM:
 

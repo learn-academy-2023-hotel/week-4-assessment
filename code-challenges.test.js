@@ -4,14 +4,11 @@
 // Pseudo coding is REQUIRED
 // If you get stuck, please leave comments to help us understand your thought process
 
-// Add appropriate dependencies to the repository:
-// $ yarn add jest
-
 // Use test driven development to complete the following questions
-// Run the file with the following command:
-// $ yarn jest
+// Add appropriate dependencies: $ yarn add jest
 
 // Reminder: The test will call your function
+// Run the file with the following command: $ yarn jest
 
 
 // --------------------1) Create a function that takes in an array, removes the first item from the array and shuffles the remaining content.
