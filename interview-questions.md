@@ -45,14 +45,6 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 
 
-6. STRETCH:
-
-  Your answer:
-
-  Researched answer:
-
-
-
 ## Looking Ahead: Terms for Next Week
 
 1. Instance Variable:
