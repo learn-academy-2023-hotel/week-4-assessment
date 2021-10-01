@@ -13,7 +13,7 @@
 
 // --------------------1) Create a function that takes in an array, removes the first item from the array and shuffles the remaining content.
 
-// a) Create a test with an expect statement using the variable provided.
+// a) Create a test with an expect statement using the variable provided. HINT: Check out this resource: https://jestjs.io/docs/expect#expectarraycontainingarray
 
 var colors1 = ["purple", "blue", "green", "yellow", "pink"]
 // Expected output example (can be a different order): ["yellow", "blue", "pink", "green"]
