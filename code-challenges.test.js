@@ -15,9 +15,9 @@
 
 // a) Create a test with an expect statement using the variable provided. HINT: Check out this resource: https://jestjs.io/docs/expect#expectarraycontainingarray
 
-var colors1 = ["purple", "blue", "green", "yellow", "pink"]
+const colors1 = ["purple", "blue", "green", "yellow", "pink"]
 // Expected output example (can be a different order): ["yellow", "blue", "pink", "green"]
-var colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "saffron"]
+const colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "saffron"]
 // Expected output example (can be a different order): ["saffron", "aquamarine", "periwinkle", "indigo", "ochre"]
 
 
@@ -30,9 +30,9 @@ var colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "saf
 
 // a) Create a test with expect statements for each of the variables provided.
 
-var nums1 = [3, 56, 90, -8, 0, 23, 6]
+const nums1 = [3, 56, 90, -8, 0, 23, 6]
 // Expected output: [-8, 90]
-var nums2 = [109, 5, 9, 67, 8, 24]
+const nums2 = [109, 5, 9, 67, 8, 24]
 // Expected output: [5, 109]
 
 
@@ -45,8 +45,8 @@ var nums2 = [109, 5, 9, 67, 8, 24]
 
 // a) Create a test with an expect statement using the variables provided.
 
-var testArray1 = [3, 7, 10, 5, 4, 3, 3]
-var testArray2 = [7, 8, 2, 3, 1, 5, 4]
+const testArray1 = [3, 7, 10, 5, 4, 3, 3]
+const testArray2 = [7, 8, 2, 3, 1, 5, 4]
 // Expected output: [3, 7, 10, 5, 4, 8, 2, 1]
 
 
