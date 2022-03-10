@@ -21,9 +21,7 @@ const colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "s
 // Expected output example (can be a different order): ["saffron", "aquamarine", "periwinkle", "indigo", "ochre"]
 
 
-
 // b) Create the function that makes the test pass.
-
 
 
 // --------------------2) Create a function that takes an array of numbers and returns an array of the minimum and maximum numbers in that order.
@@ -36,9 +34,7 @@ const nums2 = [109, 5, 9, 67, 8, 24]
 // Expected output: [5, 109]
 
 
-
 // b) Create the function that makes the test pass.
-
 
 
 // --------------------3) Create a function that takes in two arrays as arguments and returns one array with no duplicate values. STRETCH: Use the spread operator to pass in a dynamic number of arguments.
@@ -48,7 +44,6 @@ const nums2 = [109, 5, 9, 67, 8, 24]
 const testArray1 = [3, 7, 10, 5, 4, 3, 3]
 const testArray2 = [7, 8, 2, 3, 1, 5, 4]
 // Expected output: [3, 7, 10, 5, 4, 8, 2, 1]
-
 
 
 // b) Create the function that makes the test pass.
