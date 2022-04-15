@@ -23,11 +23,11 @@ album3 = 'Abbey Road'
 
 
 
-# -------------------3) Create a method that takes in a string and checks if the string is a palindrome. A palindrome is the same word spelled forwards or backwards. Use the test variables provided.
+# -------------------3) Create a method that takes in a string and checks if the string is a palindrome. A palindrome is the same word spelled forward or backward. Use the test variables provided.
 
-is_palindrome1 = 'Racecar'
+palindrome_tester1 = 'Racecar'
 # Expected output: 'Racecar is a palindrome'
-is_palindrome2 = 'LEARN'
+palindrome_tester2 = 'LEARN'
 # Expected output: 'LEARN is not a palindrome'
-is_palindrome3 = 'Rotator'
+palindrome_tester3 = 'Rotator'
 # Expected output: 'Rotator is a palindrome'
