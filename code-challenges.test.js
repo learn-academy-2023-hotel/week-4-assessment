@@ -13,7 +13,8 @@
 
 // --------------------1) Create a function that takes in an array, removes the first item from the array and shuffles the remaining content.
 
-// a) Create a test with an expect statement using the variable provided. HINT: Check out this resource: https://jestjs.io/docs/expect#expectarraycontainingarray
+// a) Create a test with an expect statement using the variable provided. 
+// HINT: Check out this resource: https://jestjs.io/docs/expect#expectarraycontainingarray
 
 const colors1 = ["purple", "blue", "green", "yellow", "pink"]
 // Expected output example (can be a different order): ["yellow", "blue", "pink", "green"]
@@ -24,14 +25,14 @@ const colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "s
 // b) Create the function that makes the test pass.
 
 
-// --------------------2) Create a function that takes an array of numbers and returns an array of the minimum and maximum numbers in that order.
+// --------------------2) Create a function that takes in an object that contains up votes and down votes and returns the net total of votes.
 
 // a) Create a test with expect statements for each of the variables provided.
 
-const nums1 = [3, 56, 90, -8, 0, 23, 6]
-// Expected output: [-8, 90]
-const nums2 = [109, 5, 9, 67, 8, 24]
-// Expected output: [5, 109]
+const votes1 = {upVotes: 13, downVotes: 2}
+// Expected output: 11
+const votes2 = {upVotes: 2, downVotes: 33}
+// Expected output: -31
 
 
 // b) Create the function that makes the test pass.
@@ -41,9 +42,9 @@ const nums2 = [109, 5, 9, 67, 8, 24]
 
 // a) Create a test with an expect statement using the variables provided.
 
-const testArray1 = [3, 7, 10, 5, 4, 3, 3]
-const testArray2 = [7, 8, 2, 3, 1, 5, 4]
-// Expected output: [3, 7, 10, 5, 4, 8, 2, 1]
+const dataArray1 = ["array", "object", "number", "string", "Boolean"]
+const dataArray2 = ["string", "null", "Boolean", "string", "undefined"]
+// Expected output: ["array", "object", "number", "string", "Boolean", "null", "undefined"]
 
 
 // b) Create the function that makes the test pass.
