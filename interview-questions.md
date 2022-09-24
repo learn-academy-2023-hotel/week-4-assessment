@@ -30,7 +30,7 @@ Your answer:
 
 Researched answer:
 
-5. What is an instance variable in Ruby?
+1. How do you extract a value in a Ruby hash?
 
 Your answer:
 
