@@ -38,12 +38,12 @@ Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-1. PostgreSQL:
+1. Class Inheritance:
 
-2. Ruby on Rails:
+2. RSpec:
 
-3. ORM:
+3. CRUD:
 
-4. Active Record:
+4. Test-driven development:
 
-5. Migrations:
+5. HTTP:

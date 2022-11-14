@@ -25,7 +25,7 @@ const colors2 = ["chartreuse", "indigo", "periwinkle", "ochre", "aquamarine", "s
 // b) Create the function that makes the test pass.
 
 
-// --------------------2) Create a function that takes in an object that contains up votes and down votes and returns the net total of votes.
+// --------------------2) Create a function that takes in an object that contains up votes and down votes and returns the end tally.
 
 // a) Create a test with expect statements for each of the variables provided.
 
