@@ -12,19 +12,19 @@ Your answer:
 
 Researched answer:
 
-2. What is the difference between a Float and an Integer in Ruby?
+1. What is the difference between a Float and an Integer in Ruby?
 
 Your answer:
 
 Researched answer:
 
-3. Ruby has an implicit return. What does that mean?
+1. Ruby has an implicit return. What does that mean?
 
 Your answer:
 
 Researched answer:
 
-4. What is a block in Ruby?
+1. What is a block in Ruby?
 
 Your answer:
 
