@@ -38,12 +38,12 @@ Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-1. Class Inheritance:
+1. RSpec:
 
-2. RSpec:
+2. Test-driven development:
 
-3. CRUD:
+3. PostgreSQL:
 
-4. Test-driven development:
+4. CRUD:
 
 5. HTTP:

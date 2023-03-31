@@ -3,11 +3,11 @@
 
 # --------------------1) Create a method that takes in a number and determines if the number is even or odd. Use the test variables provided.
 
-num1 = 7
+reposts1 = 7
 # Expected output: '7 is odd'
-num2 = 42
+reposts2 = 42
 # Expected output: '42 is even'
-num3 = 221
+reposts3 = 221
 # Expected output: '221 is odd'
 
 
