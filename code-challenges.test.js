@@ -44,8 +44,8 @@ const votes2 = { upVotes: 2, downVotes: 33 }
 
 // a) Create a test with an expect statement using the variables provided.
 
-const dataArray1 = ["array", "object", "number", "string", "Boolean"]
-const dataArray2 = ["string", "null", "Boolean", "string", "undefined"]
+const dataTypesArray1 = ["array", "object", "number", "string", "Boolean"]
+const dataTypesArray2 = ["string", "null", "Boolean", "string", "undefined"]
 // Expected output: ["array", "object", "number", "string", "Boolean", "null", "undefined"]
 
 // b) Create the function that makes the test pass.

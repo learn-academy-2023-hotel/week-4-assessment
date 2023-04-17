@@ -26,9 +26,9 @@ beatles_album3 = 'Abbey Road'
 
 # -------------------3) Create a method that takes in a string and checks if the string is a palindrome. A palindrome is the same word spelled forward or backward. Use the test variables provided.
 
-palindrome_tester1 = 'Racecar'
+palindrome_test_case1 = 'Racecar'
 # Expected output: 'Racecar is a palindrome'
-palindrome_tester2 = 'LEARN'
+palindrome_test_case2 = 'LEARN'
 # Expected output: 'LEARN is not a palindrome'
-palindrome_tester3 = 'Rotator'
+palindrome_test_case3 = 'Rotator'
 # Expected output: 'Rotator is a palindrome'
