@@ -29,6 +29,8 @@ const colors2 = [
 
 // b) Create the function that makes the test pass.
 
+// Pseudo code:
+
 // --------------------2) Create a function that takes in an object that contains up votes and down votes and returns the end tally.
 
 // a) Create a test with expect statements for each of the variables provided.
@@ -40,6 +42,8 @@ const votes2 = { upVotes: 2, downVotes: 33 }
 
 // b) Create the function that makes the test pass.
 
+// Pseudo code:
+
 // --------------------3) Create a function that takes in two arrays as arguments and returns one array with no duplicate values. STRETCH: Use the spread operator to pass in a dynamic number of arguments.
 
 // a) Create a test with an expect statement using the variables provided.
@@ -49,3 +53,5 @@ const dataTypesArray2 = ["string", "null", "Boolean", "string", "undefined"]
 // Expected output: ["array", "object", "number", "string", "Boolean", "null", "undefined"]
 
 // b) Create the function that makes the test pass.
+
+// Pseudo code:
