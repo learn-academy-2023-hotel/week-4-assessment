@@ -4,7 +4,6 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Behavioral Questions
 - [ ] Career Readiness
 - [ ] Coding Challenges
 - [ ] Interview Questions
