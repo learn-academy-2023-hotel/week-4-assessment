@@ -32,8 +32,8 @@ Researched answer:
 
 ## Looking Ahead: Terms for Next Week
 
-1. Ruby blocks:
+1. RSpec:
 
-2. RSpec:
+2. Test-driven development:
 
-3. Test-driven development:
+3. CRUD: 
